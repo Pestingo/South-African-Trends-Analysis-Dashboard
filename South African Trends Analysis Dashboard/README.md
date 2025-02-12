@@ -2,7 +2,8 @@
 
 A comprehensive data visualization dashboard providing real-time insights into South Africa's key socio-economic indicators. Built with modern web technologies and featuring interactive data visualizations.
 
-![Dashboard Preview](https://fanciful-griffin-bc5a6d.netlify.app/preview.png)
+![Dashboard Preview](![image](https://github.com/user-attachments/assets/90394969-db67-424e-9d12-95eaa8dc7b34)
+)
 
 ## 🌟 Live Demo
 
